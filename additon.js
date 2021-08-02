@@ -9,5 +9,5 @@ console.log(total)
 
 var firstName = "Sajid";
 var lastName = "Mahamud";
-fullName = firstName + lastName
+var fullName = firstName + ' ' + lastName //space add bettwen two word using empty strings.
 console.log(fullName)
