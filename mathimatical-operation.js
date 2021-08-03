@@ -10,7 +10,7 @@ var eggPriceMultiplication = eggPrice * eggQuantity
 // console.log(onionPrice + eggPrice);
 // console.log(totalPrice);
 // console.log(priceDifferance);
-console.log(eggPriceMultiplication);
+// console.log(eggPriceMultiplication);
 
 //Question 1
 
@@ -20,5 +20,12 @@ var secondVolume = 0.4;
 var secondTemeprature = secondVolume * firstTemeprature / firstVolume
 
 var temepratureDifferance = firstTemeprature - secondTemeprature
-console.log(temepratureDifferance)
+// console.log(temepratureDifferance)
 
+// Modulus
+var mangoes = 7;
+var hungryPerson = 2;
+var dividing = mangoes / hungryPerson;
+console.log(dividing);
+var remaining = mangoes % hungryPerson;
+console.log(remaining);
