@@ -10,7 +10,12 @@ var sunglass = 3;
 var price = 99.99;
 
 var onionePrice = '42.5';
-var eggPrice = '41';
+var eggPrice = '41.5';
+
+// Convert to Intiger
 var onionePriceNumbr = parseInt(onionePrice);
 console.log(onionePriceNumbr);
 
+// Convert to Float 
+var eggPriceNumber = parseFloat(eggPrice);
+console.log(eggPriceNumber);
