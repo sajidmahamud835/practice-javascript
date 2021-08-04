@@ -1,11 +1,11 @@
 var bookPages = ['html', 'css', 'javascript', 'react'];
 
 var cssIndex = bookPages.indexOf('css');
-console.log(cssIndex);
+// console.log(cssIndex);
 
 var numbers = [45, 98, 65, 73, 53];
 var index = numbers.indexOf(65); //get index no by value
-console.log(index);
+// console.log(index);
 
 var index = numbers.indexOf(undefined); //index of somthing that is not in the array will result -1
 // console.log(index);
