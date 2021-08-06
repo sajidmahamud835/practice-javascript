@@ -9,7 +9,7 @@ var numbers = [45, 56, 55, 63, 66, 68, 64, 67];
 
 // while loop
 var i = 0;
-while (i >= numbers.length) {
+while (i < numbers.length) {
     console.log(numbers[i]);
     i++;
 }
