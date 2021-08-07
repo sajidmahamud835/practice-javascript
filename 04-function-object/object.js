@@ -1,20 +1,20 @@
 var person = {
-    name: "Sajid Mahamud",
+    name: 'Sajid Mahamud',
     age: 17,
-    designation: "Web Development",
-}
+    designation: 'Web Development',
+};
 
 person = {
     age: 18,
-}
+};
 
-console.log(person);
+console.log(person.age);
 
 var student1 = {
     id: 15,
     name: 'Abir Adnan',
     marks: 81,
-    phone: 0042825 
+    phone: 00424665
 };
 
 var mobile = {
