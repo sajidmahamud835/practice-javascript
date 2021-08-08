@@ -94,11 +94,11 @@ function perfectFriend(friendNames) {
             return perfectDude;
         }
     }
-    return 'No perfect friend found.'
+    return 'No perfect friend found.';
 }
 
 
-// testing output
+// // testing output
 
 // console.log(seerToMon(40)); // output should be 1
 // console.log(seerToMon(-40)); // output should be an invalid message
@@ -123,4 +123,4 @@ function perfectFriend(friendNames) {
 // console.log(perfectFriend(friends)); //output should be rakib
 // let fakeFriends = ['saju', 'galu', 'omor', '0'];
 // console.log(perfectFriend(fakeFriends)); //output should be 'not found'.
-// console.log(perfectFriend(['Sajid', 'Galib', 'Mahir', 'Isr'])); //output should be sajid
+// console.log(perfectFriend(['Sajid', 'Galib', 'Mahir', 'Isr'])); //output should be Sajid
