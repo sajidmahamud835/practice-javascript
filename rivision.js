@@ -3,10 +3,14 @@
 function add() {
     return 1 + 2;
 }
-// // way 2
-// let add = function () {
-//     return 1 + 2; //if we do not tell return it will show undifined
-// } // problem
+
+//error
+// way 2
+let addition = function () {
+    return 1 + 2; //if we do not tell return it will show undifined
+} // error
+//problem
+
 
 // function paramitar
 function add(num1, num2) {
